@@ -1,7 +1,7 @@
 {
   "name": "fstapp",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "http://XPRTSIR.github.io/Word-Counter",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
